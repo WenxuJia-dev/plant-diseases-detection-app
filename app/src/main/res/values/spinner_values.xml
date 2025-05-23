@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="植物类型">
+        <item >小麦</item>
+        <item >苹果</item>
+    </string-array>
+</resources>
+

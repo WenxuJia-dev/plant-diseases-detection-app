@@ -1,0 +1,11 @@
+# ninja log v5
+1	1203	745408661	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	915c6bb048957105
+13	1216	745408661	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	c27df68a68fbe7ea
+1206	1664	745408661	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/armeabi-v7a/libyolov5ncnn.so	6db56b444d022474
+1216	1698	745408661	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/armeabi-v7a/libyolov5ncnndetector.so	918ae27bb86b161b
+4	957	749809547	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	915c6bb048957105
+957	2170	749809549	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/armeabi-v7a/libyolov5ncnn.so	6db56b444d022474
+167	1541	750528608	CMakeFiles/yolov5ncnnplant.dir/yolov5ncnnplant.cpp.o	188079037cf8ff26
+4	1545	750528608	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	c27df68a68fbe7ea
+1545	2838	750528609	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/armeabi-v7a/libyolov5ncnndetector.so	918ae27bb86b161b
+1541	2839	750528609	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/armeabi-v7a/libyolov5ncnnplant.so	3eb294482e8f289c

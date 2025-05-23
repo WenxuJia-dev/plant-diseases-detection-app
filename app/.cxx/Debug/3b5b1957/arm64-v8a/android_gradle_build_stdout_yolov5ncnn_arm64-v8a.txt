@@ -1,0 +1,8 @@
+ninja: Entering directory `D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\.cxx\Debug\3b5b1957\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o
+D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni/yolov5ncnn_jni.cpp:503:16: warning: implicit conversion of NULL constant to 'jboolean' (aka 'unsigned char') [-Wnull-conversion]
+        return NULL; // 或者其他适当的错误处理
+        ~~~~~~ ^~~~
+               '\0'
+1 warning generated.
+[2/2] Linking CXX shared library "D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\build\intermediates\cxx\Debug\3b5b1957\obj\arm64-v8a\libyolov5ncnn.so"

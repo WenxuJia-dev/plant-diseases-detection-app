@@ -1,0 +1,51 @@
+{
+  "stringTable": {
+    "0": "D:/n/ncnn-android-yolov5-master/app/.cxx/cmake/debug/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android24 --sysroot=C:/Users/Mike/AppData/Local/Android/Sdk/ndk/26.2.11394342/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dyolov5ncnn_EXPORTS -isystem D:/n/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/include/ncnn -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -fno-limit-debug-info -fPIC -fno-rtti -fno-exceptions"
+  },
+  "buildFiles": [
+    "D:\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslang\\glslang-config.cmake",
+    "D:\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslang\\glslang-targets.cmake",
+    "D:\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnnConfig.cmake",
+    "D:\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslang\\glslang-targets-release.cmake",
+    "C:\\Users\\Mike\\AppData\\Local\\Android\\Sdk\\ndk\\26.2.11394342\\build\\cmake\\android.toolchain.cmake",
+    "D:\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn.cmake",
+    "C:\\Users\\Mike\\AppData\\Local\\Android\\Sdk\\ndk\\26.2.11394342\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Mike\\AppData\\Local\\Android\\Sdk\\ndk\\26.2.11394342\\build\\cmake\\android-legacy.toolchain.cmake",
+    "C:\\Users\\Mike\\AppData\\Local\\Android\\Sdk\\ndk\\26.2.11394342\\build\\cmake\\compiler_id.cmake",
+    "D:\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\CMakeLists.txt",
+    "D:\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\glslang\\glslang-config-version.cmake",
+    "D:\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\arm64-v8a\\lib\\cmake\\ncnn\\ncnn-release.cmake"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Mike\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\n\\ncnn-android-yolov5-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Mike\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\n\\ncnn-android-yolov5-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5ncnn-Debug-arm64-v8a": {
+      "buildCommand": "C:\\Users\\Mike\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\n\\ncnn-android-yolov5-master\\app\\.cxx\\cmake\\debug\\arm64-v8a\" yolov5ncnn",
+      "buildType": "debug",
+      "toolchain": "59890133",
+      "abi": "arm64-v8a",
+      "artifactName": "yolov5ncnn",
+      "files": [
+        {
+          "src": "D:\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\yolov5ncnn_jni.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libyolov5ncnn.so"
+    }
+  },
+  "toolchains": {
+    "59890133": {
+      "cppCompilerExecutable": "C:\\Users\\Mike\\AppData\\Local\\Android\\Sdk\\ndk\\26.2.11394342\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

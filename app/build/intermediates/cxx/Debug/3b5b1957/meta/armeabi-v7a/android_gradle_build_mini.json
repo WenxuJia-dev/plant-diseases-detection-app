@@ -1,0 +1,57 @@
+{
+  "buildFiles": [
+    "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android studio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\.cxx\\Debug\\3b5b1957\\armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android studio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\.cxx\\Debug\\3b5b1957\\armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov5ncnndetector-Debug-armeabi-v7a": {
+      "artifactName": "yolov5ncnndetector",
+      "buildCommandComponents": [
+        "D:\\Android studio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\.cxx\\Debug\\3b5b1957\\armeabi-v7a",
+        "yolov5ncnndetector"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\cxx\\Debug\\3b5b1957\\obj\\armeabi-v7a\\libyolov5ncnndetector.so",
+      "runtimeFiles": []
+    },
+    "yolov5ncnn-Debug-armeabi-v7a": {
+      "artifactName": "yolov5ncnn",
+      "buildCommandComponents": [
+        "D:\\Android studio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\.cxx\\Debug\\3b5b1957\\armeabi-v7a",
+        "yolov5ncnn"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\cxx\\Debug\\3b5b1957\\obj\\armeabi-v7a\\libyolov5ncnn.so",
+      "runtimeFiles": []
+    },
+    "yolov5ncnnplant-Debug-armeabi-v7a": {
+      "artifactName": "yolov5ncnnplant",
+      "buildCommandComponents": [
+        "D:\\Android studio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\.cxx\\Debug\\3b5b1957\\armeabi-v7a",
+        "yolov5ncnnplant"
+      ],
+      "abi": "armeabi-v7a",
+      "output": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\cxx\\Debug\\3b5b1957\\obj\\armeabi-v7a\\libyolov5ncnnplant.so",
+      "runtimeFiles": []
+    }
+  }
+}

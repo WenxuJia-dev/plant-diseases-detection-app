@@ -1,0 +1,116 @@
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"supportedProtocolVersions\":[{\"isExperimental\":true,\"major\":1,\"minor\":1}],\"type\":\"hello\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\n  \"type\": \"handshake\",\n  \"cookie\": \"gradle-cmake-cookie\",\n  \"protocolVersion\": {\n    \"isExperimental\": true,\n    \"major\": 1,\n    \"minor\": 1\n  },\n  \"sourceDirectory\": \"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni\",\n  \"buildDirectory\": \"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/RelWithDebInfo/6f2w1171/arm64-v8a\",\n  \"generator\": \"Ninja\"\n}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"gradle-cmake-cookie\",\"inReplyTo\":\"handshake\",\"type\":\"reply\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\n  \"type\": \"configure\",\n  \"cacheArguments\": [\n    \"\",\n    \"-DCMAKE_SYSTEM_NAME\\u003dAndroid\",\n    \"-DCMAKE_EXPORT_COMPILE_COMMANDS\\u003dON\",\n    \"-DCMAKE_SYSTEM_VERSION\\u003d24\",\n    \"-DANDROID_PLATFORM\\u003dandroid-24\",\n    \"-DANDROID_ABI\\u003darm64-v8a\",\n    \"-DCMAKE_ANDROID_ARCH_ABI\\u003darm64-v8a\",\n    \"-DANDROID_NDK\\u003dD:\\\\Android studio\\\\sdk\\\\ndk\\\\21.4.7075529\",\n    \"-DCMAKE_ANDROID_NDK\\u003dD:\\\\Android studio\\\\sdk\\\\ndk\\\\21.4.7075529\",\n    \"-DCMAKE_TOOLCHAIN_FILE\\u003dD:\\\\Android studio\\\\sdk\\\\ndk\\\\21.4.7075529\\\\build\\\\cmake\\\\android.toolchain.cmake\",\n    \"-DCMAKE_MAKE_PROGRAM\\u003dD:\\\\Android studio\\\\sdk\\\\cmake\\\\3.10.2.4988404\\\\bin\\\\ninja.exe\",\n    \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\\u003dD:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\6f2w1171\\\\obj\\\\arm64-v8a\",\n    \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\\u003dD:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\6f2w1171\\\\obj\\\\arm64-v8a\",\n    \"-DCMAKE_BUILD_TYPE\\u003dRelWithDebInfo\"\n  ]\n}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Configuring\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"message\":\"Configuring done\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Configuring done"
+
+CMAKE SERVER: message: "Configuring done"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"configure\",\"type\":\"reply\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"type\":\"compute\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"progressCurrent\":1000,\"progressMaximum\":1000,\"progressMessage\":\"Generating\",\"progressMinimum\":0,\"type\":\"progress\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"message\":\"Generating done\",\"type\":\"message\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "Generating done"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"cookie\":\"\",\"inReplyTo\":\"compute\",\"type\":\"reply\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"type\":\"cmakeInputs\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"buildFiles\":[{\"isCMake\":true,\"isTemporary\":false,\"sources\":[\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInitialize.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Initialize.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeSystemSpecificInformation.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeGenericSystem.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Linux.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/UnixPaths.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCInformation.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-C.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/GNU.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/CMakeCommonCompilerMacros.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-C.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCXXInformation.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeLanguageInformation.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang-CXX.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Compiler/Clang.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang-CXX.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/Platform/Android-Clang.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeCommonLanguageInclude.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindOpenMP.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CMakeParseImplicitLinkInfo.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindThreads.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckLibraryExists.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckSymbolExists.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/CheckIncludeFile.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindVulkan.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageHandleStandardArgs.cmake\",\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10/Modules/FindPackageMessage.cmake\"]},{\"isCMake\":false,\"isTemporary\":false,\"sources\":[\"CMakeLists.txt\",\"D:/Android studio/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake\",\"D:/Android studio/sdk/ndk/21.4.7075529/build/cmake/platforms.cmake\",\"arm64-v8a/lib/cmake/ncnn/ncnnConfig.cmake\",\"arm64-v8a/lib/cmake/glslang/glslang-config-version.cmake\",\"arm64-v8a/lib/cmake/glslang/glslang-config.cmake\",\"arm64-v8a/lib/cmake/glslang/glslang-targets.cmake\",\"arm64-v8a/lib/cmake/glslang/glslang-targets-release.cmake\",\"arm64-v8a/lib/cmake/ncnn/ncnn.cmake\",\"arm64-v8a/lib/cmake/ncnn/ncnn-release.cmake\"]},{\"isCMake\":false,\"isTemporary\":true,\"sources\":[\"../../../.cxx/RelWithDebInfo/6f2w1171/arm64-v8a/CMakeFiles/3.10.2/CMakeSystem.cmake\",\"../../../.cxx/RelWithDebInfo/6f2w1171/arm64-v8a/CMakeFiles/3.10.2/CMakeCCompiler.cmake\",\"../../../.cxx/RelWithDebInfo/6f2w1171/arm64-v8a/CMakeFiles/3.10.2/CMakeCXXCompiler.cmake\"]}],\"cmakeRootDirectory\":\"D:/Android studio/sdk/cmake/3.10.2.4988404/share/cmake-3.10\",\"cookie\":\"\",\"inReplyTo\":\"cmakeInputs\",\"sourceDirectory\":\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni\",\"type\":\"reply\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"type\":\"codemodel\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+
+CMAKE SERVER: message: "\n"
+
+CMAKE SERVER: message: "[== \"CMake Server\" ==[\n"
+
+CMAKE SERVER: message: "{\"configurations\":[{\"name\":\"RelWithDebInfo\",\"projects\":[{\"buildDirectory\":\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/RelWithDebInfo/6f2w1171/arm64-v8a\",\"name\":\"yolov5ncnn\",\"sourceDirectory\":\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni\",\"targets\":[{\"artifacts\":[\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/RelWithDebInfo/6f2w1171/obj/arm64-v8a/libyolov5ncnn.so\"],\"buildDirectory\":\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/RelWithDebInfo/6f2w1171/arm64-v8a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC   -fno-rtti -fno-exceptions\",\"defines\":[\"yolov5ncnn_EXPORTS\"],\"includePath\":[{\"isSystem\":true,\"path\":\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/include/ncnn\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"yolov5ncnn_jni.cpp\"]}],\"fullName\":\"libyolov5ncnn.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"\\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libncnn.a\\\" -ljnigraphics -fopenmp -static-openmp -Wl,-wrap,__kmp_affinity_determine_capable \\\"D:\\\\Android studio\\\\sdk\\\\ndk\\\\21.4.7075529\\\\toolchains\\\\llvm\\\\prebuilt\\\\windows-x86_64\\\\sysroot\\\\usr\\\\lib\\\\aarch64-linux-android\\\\24\\\\libvulkan.so\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libglslang.a\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libSPIRV.a\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libMachineIndependent.a\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libOGLCompiler.a\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libOSDependent.a\\\" -pthread \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libGenericCodeGen.a\\\" -landroid -ljnigraphics -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"yolov5ncnn\",\"sourceDirectory\":\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni\",\"sysroot\":\"D:/Android studio/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/RelWithDebInfo/6f2w1171/obj/arm64-v8a/libyolov5ncnndetector.so\"],\"buildDirectory\":\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/RelWithDebInfo/6f2w1171/arm64-v8a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC   -fno-rtti -fno-exceptions\",\"defines\":[\"yolov5ncnndetector_EXPORTS\"],\"includePath\":[{\"isSystem\":true,\"path\":\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/include/ncnn\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"yolov5ncnndetector_jni.cpp\"]}],\"fullName\":\"libyolov5ncnndetector.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"\\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libncnn.a\\\" -ljnigraphics -fopenmp -static-openmp -Wl,-wrap,__kmp_affinity_determine_capable \\\"D:\\\\Android studio\\\\sdk\\\\ndk\\\\21.4.7075529\\\\toolchains\\\\llvm\\\\prebuilt\\\\windows-x86_64\\\\sysroot\\\\usr\\\\lib\\\\aarch64-linux-android\\\\24\\\\libvulkan.so\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libglslang.a\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libSPIRV.a\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libMachineIndependent.a\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libOGLCompiler.a\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libOSDependent.a\\\" -pthread \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libGenericCodeGen.a\\\" -landroid -ljnigraphics -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"yolov5ncnndetector\",\"sourceDirectory\":\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni\",\"sysroot\":\"D:/Android studio/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"},{\"artifacts\":[\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/RelWithDebInfo/6f2w1171/obj/arm64-v8a/libyolov5ncnnplant.so\"],\"buildDirectory\":\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/RelWithDebInfo/6f2w1171/arm64-v8a\",\"fileGroups\":[{\"compileFlags\":\"-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -g -DNDEBUG -fPIC   -fno-rtti -fno-exceptions\",\"defines\":[\"yolov5ncnnplant_EXPORTS\"],\"includePath\":[{\"isSystem\":true,\"path\":\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni/arm64-v8a/include/ncnn\"}],\"isGenerated\":false,\"language\":\"CXX\",\"sources\":[\"yolov5ncnnplant.cpp\"]}],\"fullName\":\"libyolov5ncnnplant.so\",\"linkFlags\":\"-Wl,--exclude-libs,libgcc.a -Wl,--exclude-libs,libgcc_real.a -Wl,--exclude-libs,libatomic.a -static-libstdc++ -Wl,--build-id -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments\",\"linkLibraries\":\"\\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libncnn.a\\\" -ljnigraphics -fopenmp -static-openmp -Wl,-wrap,__kmp_affinity_determine_capable \\\"D:\\\\Android studio\\\\sdk\\\\ndk\\\\21.4.7075529\\\\toolchains\\\\llvm\\\\prebuilt\\\\windows-x86_64\\\\sysroot\\\\usr\\\\lib\\\\aarch64-linux-android\\\\24\\\\libvulkan.so\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libglslang.a\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libSPIRV.a\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libMachineIndependent.a\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libOGLCompiler.a\\\" \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libOSDependent.a\\\" -pthread \\\"D:\\\\Android studio\\\\program\\\\n\\\\n\\\\ncnn-android-yolov5-master\\\\app\\\\src\\\\main\\\\jni\\\\arm64-v8a\\\\lib\\\\libGenericCodeGen.a\\\" -landroid -ljnigraphics -llog -latomic -lm\",\"linkerLanguage\":\"CXX\",\"name\":\"yolov5ncnnplant\",\"sourceDirectory\":\"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni\",\"sysroot\":\"D:/Android studio/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot\",\"type\":\"SHARED_LIBRARY\"}]}]}],\"cookie\":\"\",\"inReplyTo\":\"codemodel\",\"type\":\"reply\"}\n"
+
+CMAKE SERVER: message: "]== \"CMake Server\" ==]\n"
+

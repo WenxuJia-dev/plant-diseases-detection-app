@@ -1,0 +1,5 @@
+D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/Debug/3b5b1957/armeabi-v7a/CMakeFiles/yolov5ncnn.dir
+D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/Debug/3b5b1957/armeabi-v7a/CMakeFiles/yolov5ncnndetector.dir
+D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/Debug/3b5b1957/armeabi-v7a/CMakeFiles/yolov5ncnnplant.dir
+D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/Debug/3b5b1957/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/Debug/3b5b1957/armeabi-v7a/CMakeFiles/rebuild_cache.dir

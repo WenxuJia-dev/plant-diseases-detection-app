@@ -1,0 +1,19 @@
+[
+{
+  "directory": "D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/Debug/3b5b1957/armeabi-v7a",
+  "command": "D:\\ANDROI~1\\sdk\\ndk\\214~1.707\\TOOLCH~1\\llvm\\prebuilt\\WINDOW~1\\bin\\CLANG_~1.EXE --target=armv7-none-linux-androideabi24 --gcc-toolchain=\"D:/Android studio/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64\" --sysroot=\"D:/Android studio/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot\"  -Dyolov5ncnn_EXPORTS -isystem \"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni/armeabi-v7a/include/ncnn\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles\\yolov5ncnn.dir\\yolov5ncnn_jni.cpp.o -c \"D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\yolov5ncnn_jni.cpp\"",
+  "file": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\yolov5ncnn_jni.cpp"
+},
+
+{
+  "directory": "D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/Debug/3b5b1957/armeabi-v7a",
+  "command": "D:\\ANDROI~1\\sdk\\ndk\\214~1.707\\TOOLCH~1\\llvm\\prebuilt\\WINDOW~1\\bin\\CLANG_~1.EXE --target=armv7-none-linux-androideabi24 --gcc-toolchain=\"D:/Android studio/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64\" --sysroot=\"D:/Android studio/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot\"  -Dyolov5ncnndetector_EXPORTS -isystem \"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni/armeabi-v7a/include/ncnn\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles\\yolov5ncnndetector.dir\\yolov5ncnndetector_jni.cpp.o -c \"D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\yolov5ncnndetector_jni.cpp\"",
+  "file": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\yolov5ncnndetector_jni.cpp"
+},
+
+{
+  "directory": "D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/.cxx/Debug/3b5b1957/armeabi-v7a",
+  "command": "D:\\ANDROI~1\\sdk\\ndk\\214~1.707\\TOOLCH~1\\llvm\\prebuilt\\WINDOW~1\\bin\\CLANG_~1.EXE --target=armv7-none-linux-androideabi24 --gcc-toolchain=\"D:/Android studio/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64\" --sysroot=\"D:/Android studio/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot\"  -Dyolov5ncnnplant_EXPORTS -isystem \"D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/src/main/jni/armeabi-v7a/include/ncnn\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -fno-rtti -fno-exceptions -o CMakeFiles\\yolov5ncnnplant.dir\\yolov5ncnnplant.cpp.o -c \"D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\yolov5ncnnplant.cpp\"",
+  "file": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\yolov5ncnnplant.cpp"
+}
+]

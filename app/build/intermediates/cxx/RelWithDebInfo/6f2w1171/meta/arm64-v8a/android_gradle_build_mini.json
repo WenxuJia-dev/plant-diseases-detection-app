@@ -1,0 +1,57 @@
+{
+  "buildFiles": [
+    "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "D:\\Android studio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\.cxx\\RelWithDebInfo\\6f2w1171\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "D:\\Android studio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\.cxx\\RelWithDebInfo\\6f2w1171\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov5ncnnplant-RelWithDebInfo-arm64-v8a": {
+      "artifactName": "yolov5ncnnplant",
+      "buildCommandComponents": [
+        "D:\\Android studio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\.cxx\\RelWithDebInfo\\6f2w1171\\arm64-v8a",
+        "yolov5ncnnplant"
+      ],
+      "abi": "arm64-v8a",
+      "output": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\6f2w1171\\obj\\arm64-v8a\\libyolov5ncnnplant.so",
+      "runtimeFiles": []
+    },
+    "yolov5ncnn-RelWithDebInfo-arm64-v8a": {
+      "artifactName": "yolov5ncnn",
+      "buildCommandComponents": [
+        "D:\\Android studio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\.cxx\\RelWithDebInfo\\6f2w1171\\arm64-v8a",
+        "yolov5ncnn"
+      ],
+      "abi": "arm64-v8a",
+      "output": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\6f2w1171\\obj\\arm64-v8a\\libyolov5ncnn.so",
+      "runtimeFiles": []
+    },
+    "yolov5ncnndetector-RelWithDebInfo-arm64-v8a": {
+      "artifactName": "yolov5ncnndetector",
+      "buildCommandComponents": [
+        "D:\\Android studio\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\.cxx\\RelWithDebInfo\\6f2w1171\\arm64-v8a",
+        "yolov5ncnndetector"
+      ],
+      "abi": "arm64-v8a",
+      "output": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\cxx\\RelWithDebInfo\\6f2w1171\\obj\\arm64-v8a\\libyolov5ncnndetector.so",
+      "runtimeFiles": []
+    }
+  }
+}

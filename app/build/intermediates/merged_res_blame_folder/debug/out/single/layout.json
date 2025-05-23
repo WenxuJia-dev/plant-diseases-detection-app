@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\layout_details.xml",
+        "source": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\res\\layout\\layout_details.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\viewholder.xml",
+        "source": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\res\\layout\\viewholder.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\viewholder_plant.xml",
+        "source": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\res\\layout\\viewholder_plant.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\select_layout.xml",
+        "source": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\res\\layout\\select_layout.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\plantdoc_detect.xml",
+        "source": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\res\\layout\\plantdoc_detect.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\viewholder_1.xml",
+        "source": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\res\\layout\\viewholder_1.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\first_layout.xml",
+        "source": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\res\\layout\\first_layout.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\search_details.xml",
+        "source": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\res\\layout\\search_details.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\search_layout.xml",
+        "source": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\res\\layout\\search_layout.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\main.xml",
+        "source": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\intro.xml",
+        "source": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\res\\layout\\intro.xml"
+    },
+    {
+        "merged": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\detect_layout.xml",
+        "source": "D:\\Android studio\\program\\n\\n\\ncnn-android-yolov5-master\\app\\src\\main\\res\\layout\\detect_layout.xml"
+    }
+]

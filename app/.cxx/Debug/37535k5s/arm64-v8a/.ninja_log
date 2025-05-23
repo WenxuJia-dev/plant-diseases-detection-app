@@ -1,0 +1,21 @@
+# ninja log v5
+1	719	733856612	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	73d6f51f11dccf90
+722	1364	733856613	D:/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/37535k5s/obj/arm64-v8a/libyolov5ncnn.so	89c6e7f64b68c228
+4	1419	734290655	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	73d6f51f11dccf90
+1419	2850	734290657	D:/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/37535k5s/obj/arm64-v8a/libyolov5ncnn.so	89c6e7f64b68c228
+3	784	734290692	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	73d6f51f11dccf90
+785	1484	734290693	D:/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/37535k5s/obj/arm64-v8a/libyolov5ncnn.so	89c6e7f64b68c228
+3	929	734458655	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	73d6f51f11dccf90
+929	1616	734458656	D:/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/37535k5s/obj/arm64-v8a/libyolov5ncnn.so	89c6e7f64b68c228
+3	751	734458908	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	73d6f51f11dccf90
+751	1332	734458908	D:/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/37535k5s/obj/arm64-v8a/libyolov5ncnn.so	89c6e7f64b68c228
+4	956	734458978	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	73d6f51f11dccf90
+956	1641	734458979	D:/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/37535k5s/obj/arm64-v8a/libyolov5ncnn.so	89c6e7f64b68c228
+3	1301	734895133	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	73d6f51f11dccf90
+1301	2740	734895134	D:/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/37535k5s/obj/arm64-v8a/libyolov5ncnn.so	89c6e7f64b68c228
+5	720	734895484	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	73d6f51f11dccf90
+720	1399	734895485	D:/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/37535k5s/obj/arm64-v8a/libyolov5ncnn.so	89c6e7f64b68c228
+7	970	734945842	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	73d6f51f11dccf90
+970	1600	734945843	D:/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/37535k5s/obj/arm64-v8a/libyolov5ncnn.so	89c6e7f64b68c228
+3	1281	736682934	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	73d6f51f11dccf90
+1281	2537	736682935	D:/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/37535k5s/obj/arm64-v8a/libyolov5ncnn.so	89c6e7f64b68c228

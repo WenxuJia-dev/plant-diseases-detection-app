@@ -1,0 +1,104 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tencent.yolov5ncnn"
+4    android:versionCode="1"
+5    android:versionName="1.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->[androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Mike\.gradle\caches\transforms-3\de2804e1c73fd769951b4dd113cfe890\transformed\constraintlayout-2.0.4\AndroidManifest.xml:7:9-38
+10
+11    <application
+11-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:7:5-57:19
+12        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+12-->[androidx.core:core:1.5.0] C:\Users\Mike\.gradle\caches\transforms-3\4494bece03a6b44b788ed162a8727dab\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+13        android:debuggable="true"
+14        android:extractNativeLibs="false"
+15        android:label="@string/app_name"
+15-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:7:18-50
+16        android:testOnly="true" >
+17        <activity
+17-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:8:9-16:20
+18            android:name="com.tencent.yolov5ncnn.IntroActivity"
+18-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:9:13-42
+19            android:label="@string/app_name"
+19-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:11:13-45
+20            android:theme="@style/AppTheme" >
+20-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:10:13-44
+21            <intent-filter>
+21-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:12:13-15:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:13:17-69
+22-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:13:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:14:17-77
+24-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:14:27-74
+25            </intent-filter>
+26        </activity>
+27        <activity
+27-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:17:9-21:24
+28            android:name="com.tencent.yolov5ncnn.Search_view"
+28-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:18:13-40
+29            android:launchMode="singleTask" >
+29-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:19:13-44
+30        </activity>
+31        <activity android:name="com.tencent.yolov5ncnn.FirstActivity" >
+31-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:22:9-25:20
+31-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:23:13-42
+32        </activity>
+33        <activity android:name="com.tencent.yolov5ncnn.select_view" />
+33-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:26:9-28:15
+33-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:26:19-46
+34        <activity
+34-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:29:9-32:20
+35            android:name="com.tencent.yolov5ncnn.DetailActivity"
+35-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:30:13-43
+36            android:exported="false" >
+36-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:31:13-37
+37        </activity>
+38        <activity
+38-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:33:9-35:20
+39            android:name="com.tencent.yolov5ncnn.detail_apple"
+39-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:33:19-47
+40            android:exported="false" >
+40-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:34:13-37
+41        </activity>
+42        <activity
+42-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:36:9-42:20
+43            android:name="com.tencent.yolov5ncnn.MainActivity"
+43-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:37:13-41
+44            android:exported="false"
+44-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:38:13-37
+45            android:label="@string/app_name"
+45-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:39:13-45
+46            android:launchMode="singleTask" >
+46-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:40:13-44
+47        </activity>
+48        <activity
+48-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:43:9-48:20
+49            android:name="com.tencent.yolov5ncnn.detect_act"
+49-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:44:13-39
+50            android:exported="false"
+50-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:46:13-37
+51            android:label="@string/app_name"
+51-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:45:13-45
+52            android:launchMode="singleTask" >
+52-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:47:13-44
+53        </activity>
+54        <activity
+54-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:49:9-55:20
+55            android:name="com.tencent.yolov5ncnn.detect_plant"
+55-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:50:13-41
+56            android:exported="false"
+56-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:52:13-37
+57            android:label="@string/app_name"
+57-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:51:13-45
+58            android:launchMode="singleTask" >
+58-->D:\Android studio\program\n\n\ncnn-android-yolov5-master\app\src\main\AndroidManifest.xml:53:13-44
+59        </activity>
+60    </application>
+61
+62</manifest>

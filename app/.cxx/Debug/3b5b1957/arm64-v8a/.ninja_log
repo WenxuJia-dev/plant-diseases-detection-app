@@ -1,0 +1,70 @@
+# ninja log v5
+1	773	743094909	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	2383bf475aba8fda
+776	1479	743094910	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnn.so	9739c3afc0cb650b
+5	877	743101811	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	2383bf475aba8fda
+878	1552	743101812	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnn.so	9739c3afc0cb650b
+3	728	743102934	CMakeFiles/yolov5_second.dir/yolov5_second.cpp.o	54eec83ce70f89fa
+729	1297	743102935	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5_second.so	866608be63e89e25
+3	731	743103255	CMakeFiles/yolov5_second.dir/yolov5_second.cpp.o	54eec83ce70f89fa
+731	1308	743103256	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5_second.so	866608be63e89e25
+7	1255	743166675	CMakeFiles/yolov5_second.dir/yolov5_second.cpp.o	54eec83ce70f89fa
+1256	2293	743166676	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5_second.so	866608be63e89e25
+3	726	743170797	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+726	1319	743170798	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+3	718	743170962	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+719	1300	743170962	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+3	859	743171052	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+859	1464	743171053	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+3	869	743171083	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+869	1524	743171084	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+4	749	743173514	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+750	1385	743173515	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+4	747	743173848	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+748	1350	743173849	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+0	12	0	clean	c7c1f0ef7531d8b7
+9	1802	745257348	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	2383bf475aba8fda
+20	1811	745257348	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+1803	3414	745257349	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnn.so	9739c3afc0cb650b
+1812	3425	745257349	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+5	2055	747224081	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	2383bf475aba8fda
+2056	3521	747224083	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnn.so	9739c3afc0cb650b
+4	965	749810423	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+965	1715	749810424	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+3	994	749810512	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+994	1723	749810513	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+4	965	749811079	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+965	1661	749811080	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+4	1015	749811120	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+1016	1734	749811120	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+5	1149	749816311	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+1149	1916	749816312	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+4	1034	749816580	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+1034	1761	749816581	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+3	1000	749819512	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+1001	1701	749819512	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+5	1241	749821684	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+1242	2204	749821685	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+7	1080	750097808	CMakeFiles/yolov5ncnnplant.dir/yolov5ncnnplant.cpp.o	831dbb8a3ca14b36
+1080	1978	750097809	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnnplant.so	62381f332d880ad
+3	1422	752250067	CMakeFiles/yolov5ncnnplant.dir/yolov5ncnnplant_jni.cpp.o	4e41e0005c814dc
+1422	3008	752250068	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnnplant.so	ec3b72c8083fa6e4
+5	1017	752250417	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+1018	1733	752250418	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+4	1128	752250455	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+1128	1898	752250455	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+3	1076	752250501	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+1077	1797	752250502	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+4	986	752250547	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+986	1728	752250548	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+3	971	752250664	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	2383bf475aba8fda
+971	1708	752250665	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnn.so	9739c3afc0cb650b
+6	1793	752345078	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	2383bf475aba8fda
+1794	3286	752345079	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnn.so	9739c3afc0cb650b
+6	1166	752345517	CMakeFiles/yolov5ncnn.dir/yolov5ncnn_jni.cpp.o	2383bf475aba8fda
+171	1299	752345517	CMakeFiles/yolov5ncnnplant.dir/yolov5ncnnplant_jni.cpp.o	4e41e0005c814dc
+1166	1973	752345518	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnn.so	9739c3afc0cb650b
+1300	2082	752345518	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnnplant.so	ec3b72c8083fa6e4
+5	1108	753288139	CMakeFiles/yolov5ncnndetector.dir/yolov5ncnndetector_jni.cpp.o	6b393f1336ec644b
+1109	2949	753288141	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnndetector.so	14f5544fdded9bcd
+6	1202	761659225	CMakeFiles/yolov5ncnnplant.dir/yolov5ncnnplant_jni.cpp.o	4e41e0005c814dc
+1202	2686	761659226	D:/Android studio/program/n/n/ncnn-android-yolov5-master/app/build/intermediates/cxx/Debug/3b5b1957/obj/arm64-v8a/libyolov5ncnnplant.so	ec3b72c8083fa6e4
